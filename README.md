@@ -31,14 +31,7 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:D4AF37,50:FFFFFF,100:D4AF37" />
 
 <br>
-
-### 🌿 *Nơi lưu giữ tri thức Phật học — trang nghiêm, hệ thống và dễ tiếp cận*
-
-<br>
-
 </div>
-
----
 
 ## 🔖 Mục Lục
 
