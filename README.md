@@ -367,7 +367,6 @@ Nguyện cho Chánh pháp của Đức Phật Gotama được trường tồn, l
 
 **Sādhu! Sādhu! Sādhu!** 🙏☸
 
-<p align="center">☸ ─────────────────────── ⋆⋅☆⋅⋆ ─────────────────────── ☸</p>
 
 ## 📩 Liên Hệ
 
