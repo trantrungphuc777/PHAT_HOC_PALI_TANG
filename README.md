@@ -45,20 +45,20 @@
 - [🧭 Hướng Dẫn Tham Học](#-hướng-dẫn-tham-học)
 - [📿 Những Lời Vàng Ngọc Về Giáo Pháp (Pāḷi – Việt)](#-những-lời-vàng-ngọc-về-giáo-pháp-pāḷi--việt)
 - [💐 Hồi Hướng](#-hồi-hướng)
-- [📩 Đóng Góp & Liên Hệ](#-đóng-góp--liên-hệ)
+- [📩 Liên Hệ](#-liên-hệ)
 
 ---
 
 ## 🙏 Lời Tri Ân
 
-Kho lưu trữ này được thành lập với một tâm nguyện duy nhất: **gìn giữ, bảo tồn và lan tỏa** những công trình nghiên cứu, biên soạn quý báu về Phật giáo Nguyên thủy (Theravāda) mà chư Trưởng lão và các bậc tác giả đã dày công thực hiện, để lại cho hậu thế một gia tài Pháp bảo vô giá.
+Kho lưu trữ này được tác giả Trần Trung Phúc thành lập với một tâm nguyện duy nhất: **gìn giữ, bảo tồn và lan tỏa** những công trình nghiên cứu, biên soạn quý báu về Phật giáo Nguyên thủy (Theravāda) mà chư Trưởng lão và các bậc tác giả đã dày công thực hiện, để lại cho hậu thế một gia tài Pháp bảo vô giá.
 
-Trước khi giới thiệu về nội dung kho tài liệu, người thực hiện repository này xin được đảnh lễ và bày tỏ lòng tri ân sâu sắc nhất đến:
+Trước khi giới thiệu về nội dung kho tài liệu, tôi Trần Trung Phúc xin chí tâm đảnh lễ và bày tỏ lòng tri ân sâu sắc nhất đến:
 
 - **Chư Đại-Trưởng-lão đã có công truyền bá Phật giáo Nguyên thủy trên đất nước Việt Nam**, đứng đầu là **Ngài Sư Tổ Hộ-Tông (Vaṃsarakkhitamahāthera)** — vị Tổ sư đã khai sáng và đặt nền móng đầu tiên cho Phật giáo Nguyên thủy Theravāda tại Việt Nam.
 - Cùng chư vị Đại-Trưởng-lão đồng thời và kế thừa đã góp phần hoằng dương Chánh pháp: **Ngài Đại-Trưởng-lão Thiện-Luật**, **Ngài Đại-Trưởng-lão Bửu-Chơn**, **Ngài Đại-Trưởng-lão Giới-Nghiêm**, **Ngài Trưởng-lão Hộ-Giác** (chùa Từ Quang), **Ngài Trưởng-lão Hộ-Nhẫn** (chùa Thiền Lâm, Huế), cùng rất nhiều bậc Trưởng lão, chư Tôn đức Tăng Ni khác mà tên tuổi có thể không được nhắc đầy đủ nơi đây, nhưng công đức hoằng pháp của quý Ngài vẫn luôn được khắc ghi.
 - Chư vị Đại-Trưởng-lão tại **Thái Lan** và **Myanmar** đã tận tâm dạy dỗ, truyền trao pháp học và pháp hành cho các thế hệ Tăng sĩ Việt Nam trong nhiều thập kỷ qua.
-- **Tất cả các Soạn giả, Dịch giả, Cư sĩ hộ pháp** đã bỏ ra rất nhiều tâm huyết, thời gian và trí tuệ để nghiên cứu Tam Tạng Pāḷi, Chú giải, Phụ chú giải, cùng các bộ giáo trình Vi Diệu Pháp, từ đó biên soạn nên hơn 20 đầu sách Phật học căn bản — là nguồn tư liệu học Phật vô cùng quý giá cho người Việt Nam.
+- **Tất cả các Soạn giả, Dịch giả, Cư sĩ hộ pháp** đã bỏ ra rất nhiều tâm huyết, thời gian và trí tuệ để nghiên cứu Tam Tạng Pāḷi, Chú giải, Phụ chú giải, cùng các bộ giáo trình Vi Diệu Pháp, từ đó biên soạn nên hơn 20 đầu sách Phật học căn bản ở kho lưu trữ này cùng tất cả tài liệu về Tam Tạng Pali tồn tại hiện nay — là nguồn tư liệu Phật học vô cùng quý giá và trân quý cho chư Thiên và loài Người.
 
 Nguyện đem công đức thiết lập và lan tỏa kho Pháp bảo này, hồi hướng đến Ngài Sư Tổ Hộ-Tông, chư Đại-Trưởng-lão, chư Tôn đức, các bậc Thầy Tổ, cùng tất cả chúng sinh trong ba giới bốn loài đều được thấm nhuần lợi lạc từ Chánh pháp của Đức Phật.
 
@@ -140,16 +140,16 @@ Kho lưu trữ hiện có **tổng cộng 27 đầu sách** (17 tác phẩm chuy
 
 | STT | Tên quyển | Tên Pāḷi | Nội dung cốt lõi |
 |---|---|---|---|
-| 1 | Tam-Bảo | Ratanattaya | Ân đức của Đức Phật, Đức Pháp, Đức Tăng |
-| 2 | Quy-Y Tam-Bảo | Tisaraṇa | Ý nghĩa và cách thức quy y Tam Bảo |
-| 3 | Pháp-Hành Giới | Sīlācāra | Ngũ giới, Bát giới, giới xuất gia |
-| 4 | Nghiệp Và Quả Của Nghiệp | Kamma | Quy luật nhân quả trong đời sống tu tập |
-| 5 | Phước-Thiện Và Các Pháp-Hạnh Ba-La-Mật | Puñña-kusala / Pāramī | 10 phước-thiện căn bản, dẫn nhập Ba-la-mật |
-| 6 | Pháp-Hạnh Ba-La-Mật (1) | Pāramī | Bố-thí, Trì-giới, Xuất-gia Ba-la-mật |
-| 7 | Pháp-Hạnh Ba-La-Mật (2) | Pāramī | Trí-tuệ, Tinh-tấn, Nhẫn-nại Ba-la-mật |
-| 8 | Pháp-Hạnh Ba-La-Mật (3) | Pāramī | Chân-thật, Quyết-tâm, Tâm-từ, Tâm-xả Ba-la-mật |
-| 9 | Pháp-Hành Thiền-Định | Samathabhāvanā | 40 đề mục thiền định, các tầng thiền chứng |
-| 10 | Pháp-Hành Thiền-Tuệ | Vipassanābhāvanā | Con đường thiền tuệ dẫn đến Thánh-đạo, Thánh-quả |
+| 1 | **Tam-Bảo** | Ratanattaya | Ân đức của Đức Phật, Đức Pháp, Đức Tăng |
+| 2 | **Quy-Y Tam-Bảo** | Tisaraṇa | Ý nghĩa và cách thức quy y Tam Bảo |
+| 3 | **Pháp-Hành Giới** | Sīlācāra | Ngũ giới, Bát giới, giới xuất gia |
+| 4 | **Nghiệp Và Quả Của Nghiệp** | Kamma | Quy luật nhân quả trong đời sống tu tập |
+| 5 | **Phước-Thiện Và Các Pháp-Hạnh Ba-La-Mật** | Puñña-kusala / Pāramī | 10 phước-thiện căn bản, dẫn nhập Ba-la-mật |
+| 6 | **Pháp-Hạnh Ba-La-Mật (1)** | Pāramī | Bố-thí, Trì-giới, Xuất-gia Ba-la-mật |
+| 7 | **Pháp-Hạnh Ba-La-Mật (2)** | Pāramī | Trí-tuệ, Tinh-tấn, Nhẫn-nại Ba-la-mật |
+| 8 | **Pháp-Hạnh Ba-La-Mật (3)** | Pāramī | Chân-thật, Quyết-tâm, Tâm-từ, Tâm-xả Ba-la-mật |
+| 9 | **Pháp-Hành Thiền-Định** | Samathabhāvanā | 40 đề mục thiền định, các tầng thiền chứng |
+| 10 | **Pháp-Hành Thiền-Tuệ** | Vipassanābhāvanā | Con đường thiền tuệ dẫn đến Thánh-đạo, Thánh-quả |
 
 ### II. Các Soạn Phẩm Chuyên Đề (17 đầu sách)
 
@@ -158,22 +158,22 @@ Nhóm tác phẩm này đi sâu vào từng chủ đề cụ thể, thích hợp
 | STT | Tên tác phẩm | Chủ đề trọng tâm |
 |---|---|---|
 | 1 | **Pháp Môn Niệm Ân-Đức-Phật** | Đề mục thiền định niệm 9 ân-Đức-Phật (Buddhānussati) |
-| 2 | Kiếp Kế Tiếp Của Mỗi Người | Vòng luân hồi và cảnh giới tái sinh |
-| 3 | Tìm Hiểu Về Phước Bố-Thí | Ý nghĩa và quả báu của hạnh bố thí |
-| 4 | Vòng Tử Sanh Luân Hồi | Vòng quay sinh tử trong tam giới |
-| 5 | Lợi Ích Niệm Sự Chết | Đề mục thiền quán niệm về sự chết (Maraṇānussati) |
-| 6 | Tứ Thánh Đế | Khổ, Tập, Diệt, Đạo — bốn chân lý cao thượng |
-| 7 | Tìm Hiểu Pháp Chướng Ngại | Các pháp chướng ngại trên đường tu tập |
-| 8 | Kinh Trạng Thái Vô Ngã | Giáo lý Vô ngã (Anattā) |
-| 9 | Con Đường Giải Thoát Khổ | Lộ trình tu tập dẫn đến giải thoát |
-| 10 | Ngũ Giới Là Thường Giới Của Mọi Người | Ý nghĩa và cách hành trì Ngũ giới |
-| 11 | Kinh Chuyển Pháp Luân | Bài pháp đầu tiên Đức Phật thuyết giảng |
-| 12 | Pháp Nhẫn Nại | Hạnh nhẫn nại trong đời sống tu tập |
-| 13 | Luận Về Của Riêng Của Chung | Quan điểm Phật giáo về sở hữu, tài sản |
-| 14 | Ngã - Vô Ngã - Vấn Đáp | Giải đáp thắc mắc về Ngã và Vô ngã |
-| 15 | Gương Bậc Xuất Gia | Những tấm gương đời sống xuất gia chân chính |
-| 16 | Rằm Tháng Tư | Ý nghĩa ngày Rằm tháng Tư trong Phật giáo (Tam hợp) |
-| 17 | Gương Bậc Xuất Gia *(bản bổ sung/tái bản)* | Những tấm gương đời sống xuất gia chân chính |
+| 2 | **Kiếp Kế Tiếp Của Mỗi Người** | Vòng luân hồi và cảnh giới tái sinh |
+| 3 | **Tìm Hiểu Về Phước Bố-Thí** | Ý nghĩa và quả báu của hạnh bố thí |
+| 4 | **Vòng Tử Sanh Luân Hồi** | Vòng quay sinh tử trong tam giới |
+| 5 | **Lợi Ích Niệm Sự Chết** | Đề mục thiền quán niệm về sự chết (Maraṇānussati) |
+| 6 | **Tứ Thánh Đế** | Khổ, Tập, Diệt, Đạo — bốn chân lý cao thượng |
+| 7 | **Tìm Hiểu Pháp Chướng Ngại** | Các pháp chướng ngại trên đường tu tập |
+| 8 | **Kinh Trạng Thái Vô Ngã** | Giáo lý Vô ngã (Anattā) |
+| 9 | **Con Đường Giải Thoát Khổ** | Lộ trình tu tập dẫn đến giải thoát |
+| 10 | **Ngũ Giới Là Thường Giới Của Mọi Người** | Ý nghĩa và cách hành trì Ngũ giới |
+| 11 | **Kinh Chuyển Pháp Luân** | Bài pháp đầu tiên Đức Phật thuyết giảng |
+| 12 | **Pháp Nhẫn Nại** | Hạnh nhẫn nại trong đời sống tu tập |
+| 13 | **Luận Về Của Riêng Của Chung** | Quan điểm Phật giáo về sở hữu, tài sản |
+| 14 | **Ngã - Vô Ngã - Vấn Đáp** | Giải đáp thắc mắc về Ngã và Vô ngã |
+| 15 | **Gương Bậc Xuất Gia** | Những tấm gương đời sống xuất gia chân chính |
+| 16 | **Rằm Tháng Tư** | Ý nghĩa ngày Rằm tháng Tư trong Phật giáo (Tam hợp) |
+| 17 | **Gương Bậc Xuất Gia** * | Những tấm gương đời sống xuất gia chân chính |
 
 <p align="center">☸</p>
 
@@ -369,6 +369,6 @@ Nguyện cho Chánh pháp của Đức Phật Gotama được trường tồn, l
 
 ## 📩 Liên Hệ
 
-*Kho lưu trữ được thực hiện với tâm nguyện phụng sự Chánh pháp — mọi thiếu sót trong quá trình biên soạn README này đều là do người thực hiện, kính mong chư vị hoan hỷ chỉ dạy thêm.*
+*Kho lưu trữ được thực hiện với tâm nguyện phụng sự Chánh pháp — Điều không thể tránh khỏi là phần ghi chép này vẫn còn nhiều thiếu sót. Ngưỡng mong các Bậc Cao Tăng Đại Đức Trưởng lão, chư vị Thiện Tri Thức hãy rũ lòng Từ Bi chỉ dạy, giúp ch con kịp thời sửa chữa những lỗi lầm và hoàn thiện phần ghi chép này.*
 
 <p align="center">☸ ── Namo Tassa Bhagavato Arahato Sammāsambuddhassa ── ☸</p>
