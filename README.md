@@ -51,9 +51,9 @@
 
 ## 🙏 Lời Tri Ân
 
-Kho lưu trữ này được tác giả Trần Trung Phúc thành lập với một tâm nguyện duy nhất: **gìn giữ, bảo tồn và lan tỏa** những công trình nghiên cứu, biên soạn quý báu về Phật giáo Nguyên thủy (Theravāda) mà chư Trưởng lão và các bậc tác giả đã dày công thực hiện, để lại cho hậu thế một gia tài Pháp bảo vô giá.
+Kho lưu trữ này được con Trần Trung Phúc thành lập với một tâm nguyện duy nhất: **gìn giữ, bảo tồn và lan tỏa** những công trình nghiên cứu, biên soạn quý báu về Phật giáo Nguyên thủy (Theravāda) mà chư Trưởng lão và các bậc tác giả đã dày công thực hiện, để lại cho hậu thế một gia tài Pháp bảo vô giá.
 
-Trước khi giới thiệu về nội dung kho tài liệu, tôi Trần Trung Phúc xin chí tâm đảnh lễ và bày tỏ lòng tri ân sâu sắc nhất đến:
+Trước khi giới thiệu về nội dung kho tài liệu, con Trần Trung Phúc xin chí tâm đảnh lễ và bày tỏ lòng tri ân sâu sắc nhất đến:
 
 - **Chư Đại-Trưởng-lão đã có công truyền bá Phật giáo Nguyên thủy trên đất nước Việt Nam**, đứng đầu là **Ngài Sư Tổ Hộ-Tông (Vaṃsarakkhitamahāthera)** — vị Tổ sư đã khai sáng và đặt nền móng đầu tiên cho Phật giáo Nguyên thủy Theravāda tại Việt Nam.
 - Cùng chư vị Đại-Trưởng-lão đồng thời và kế thừa đã góp phần hoằng dương Chánh pháp: **Ngài Đại-Trưởng-lão Thiện-Luật**, **Ngài Đại-Trưởng-lão Bửu-Chơn**, **Ngài Đại-Trưởng-lão Giới-Nghiêm**, **Ngài Trưởng-lão Hộ-Giác** (chùa Từ Quang), **Ngài Trưởng-lão Hộ-Nhẫn** (chùa Thiền Lâm, Huế), cùng rất nhiều bậc Trưởng lão, chư Tôn đức Tăng Ni khác mà tên tuổi có thể không được nhắc đầy đủ nơi đây, nhưng công đức hoằng pháp của quý Ngài vẫn luôn được khắc ghi.
@@ -71,7 +71,7 @@ Nguyện đem công đức thiết lập và lan tỏa kho Pháp bảo này, h�
 > *"Ta sắp ra đi, và đang cảm thấy thanh thoát lạ thường. Lẽ đời có sinh có diệt, các con nhớ tinh tấn tu hành."*
 > — Lời dặn dò sau cùng của Ngài trước giờ viên tịch
 
-Để lòng tri ân được trọn vẹn, xin được lược thuật đôi nét về hành trạng của bậc Sơ Tổ đã khai sáng cả một dòng truyền thừa Theravāda tại Việt Nam — nền tảng để từ đó chư Trưởng lão hậu học, trong đó có tác giả của bộ sách trong kho lưu trữ này, tiếp nối con đường hoằng pháp.
+Để lòng tri ân được trọn vẹn, con xin được lược thuật đôi nét về hành trạng của bậc Sơ Tổ đã khai sáng cả một dòng truyền thừa Theravāda tại Việt Nam — nền tảng để từ đó chư Trưởng lão hậu học, trong đó có tác giả của bộ sách trong kho lưu trữ này, tiếp nối con đường hoằng pháp.
 
 **Ngài Hòa thượng Hộ-Tông**, pháp danh Pāḷi **Vaṅsarakkhita Mahāthera**, thế danh **Lê Văn Giảng**, sinh ngày 15 tháng 10 năm 1893 tại làng Tân An, quận Tân Châu, tỉnh Châu Đốc, trong một gia đình trung lưu trí thức. Thuở thiếu thời, Ngài theo gia đình lập nghiệp tại Phnôm Pênh (Campuchia), theo học ngành thú y tại Hà Nội và trở thành một bác sĩ thú y có sự nghiệp vững vàng. Thế nhưng, nhân duyên đưa đẩy, Ngài tình cờ tiếp xúc với một cuốn sách viết về Bát Chánh Đạo, từ đó phát tâm chuyên tâm thực hành thiền quán niệm hơi thở (Ānāpānasati) và quyết định xả ly đời sống thế tục.
 
@@ -369,6 +369,6 @@ Nguyện cho Chánh pháp của Đức Phật Gotama được trường tồn, l
 
 ## 📩 Liên Hệ
 
-*Kho lưu trữ được thực hiện với tâm nguyện phụng sự Chánh pháp — Điều không thể tránh khỏi là phần ghi chép này vẫn còn nhiều thiếu sót. Ngưỡng mong các Bậc Cao Tăng Đại Đức Trưởng lão, chư vị Thiện Tri Thức hãy rũ lòng Từ Bi chỉ dạy, giúp ch con kịp thời sửa chữa những lỗi lầm và hoàn thiện phần ghi chép này.*
+*Kho lưu trữ được thực hiện với tâm nguyện phụng sự Chánh pháp — Điều không thể tránh khỏi là phần ghi chép này vẫn còn nhiều thiếu sót. Ngưỡng mong các Bậc Cao Tăng Đại Đức Trưởng lão, chư vị Thiện Tri Thức hãy rũ lòng Từ Bi chỉ dạy, giúp cho con kịp thời sửa chữa những lỗi lầm và hoàn thiện phần ghi chép này.*
 
 <p align="center">☸ ── Namo Tassa Bhagavato Arahato Sammāsambuddhassa ── ☸</p>
