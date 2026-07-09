@@ -293,7 +293,7 @@ Phước-thiện pháp-thí thanh cao này, xin hồi hướng đến tất cả
 
 ---
 
-## 🪷 Hồi Hướng Đến Tất Cả Chúng-Sinh
+## 🕊️ Hồi Hướng Đến Tất Cả Chúng-Sinh
 
 </div>
 
@@ -369,9 +369,7 @@ Nguyện cho Chánh pháp của Đức Phật Gotama được trường tồn, l
 
 <p align="center">☸ ─────────────────────── ⋆⋅☆⋅⋆ ─────────────────────── ☸</p>
 
-## 📩 Đóng Góp & Liên Hệ
-
-Nếu bạn có thêm tài liệu cùng tác giả, bản đã hiệu đính, hoặc phát hiện sai sót trong quá trình số hóa, rất hoan nghênh đóng góp qua Pull Request hoặc Issue trên repository này, để cùng nhau hoàn thiện kho Pháp bảo này ngày một đầy đủ và chính xác hơn.
+## 📩 Liên Hệ
 
 *Kho lưu trữ được thực hiện với tâm nguyện phụng sự Chánh pháp — mọi thiếu sót trong quá trình biên soạn README này đều là do người thực hiện, kính mong chư vị hoan hỷ chỉ dạy thêm.*
 
