@@ -230,7 +230,6 @@ Nhóm tác phẩm này đi sâu vào từng chủ đề cụ thể, thích hợp
 
 - Tất cả tài liệu trong kho lưu trữ này thuộc về tác giả **Tỳ-khưu Hộ-Pháp (Dhammarakkhita Bhikkhu)** và **Nhà Xuất Bản Tôn Giáo**. Người đóng góp kho lưu trữ **không nắm giữ bản quyền** đối với nội dung, chỉ đóng vai trò lưu trữ và chia sẻ vì mục đích học Phật, hoằng pháp phi lợi nhuận.
 - Kính đề nghị người sử dụng: **không chỉnh sửa, cắt xén nội dung nguyên tác**; khi trích dẫn hoặc chia sẻ lại, xin **ghi rõ nguồn** (tên sách, tên tác giả) để tôn trọng công sức của Ngài soạn giả và chư Trưởng lão.
-- Nếu có yêu cầu từ tác giả, Nhà xuất bản, hoặc đại diện hợp pháp về việc gỡ bỏ tài liệu, kho lưu trữ sẽ tuân thủ ngay lập tức.
 
 
 
